@@ -2,7 +2,7 @@
 #include "marsCalculator.hpp"
 
 //出発地を特定都市に変更する関数
-char get_specific_city(char specific_city , char specific_station);
+char get_specific_city(float calculate_dis , char specific_city , char specific_station);
 
 int main()
 {

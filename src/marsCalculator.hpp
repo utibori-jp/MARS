@@ -39,7 +39,7 @@ namespace MARS
     //JR北海道のみを利用したときの運賃
     static int
     get_H_fare(float main_dis,
-                             float branch_dis)
+               float branch_dis)
     {
       int fare = 0;
       float calculate_dis = 0;
